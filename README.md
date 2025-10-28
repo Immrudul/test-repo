@@ -136,6 +136,7 @@ So after all these assumptions, here’s a final trace example that I’ve been 
     }
   ]
 }
+ ```
 
 It involves keeping track of events like file openings, any dev comments to try as one of the easiest ways to capture dev chain of thought, file saves along with the differences so that we can look at iterative thinking*, terminal commands, any tests that have been run, commits, and the PR created. 
 
