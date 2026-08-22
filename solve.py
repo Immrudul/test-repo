@@ -130,8 +130,8 @@ def get_cube_orders():
 
         # this is where the bug is introduced
         if locations["L"] == "G" and locations["F"] == "O":
-            solved.append("G")
-            solved.append("O")
+            solved.append("L")
+            solved.append("F")
         
         if locations["J"] == "G" and locations["P"] == "R":
             solved.append("J")
